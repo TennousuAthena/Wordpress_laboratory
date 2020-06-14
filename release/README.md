@@ -1,1 +1,3 @@
-https://cdn.jsdelivr.net/gh/qcminecraft/Wordpress_laboratory@master/release/wordpress-5.4.1-zh_CN.tar.gz
+Jsdelivr CDN加速下载地址
+
+https://cdn.jsdelivr.net/gh/qcminecraft/Wordpress_laboratory@master/release/
